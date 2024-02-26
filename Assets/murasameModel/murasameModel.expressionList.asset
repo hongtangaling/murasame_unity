@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f401bb1c5c52514eba33c0c2ffdc8ff, type: 3}
+  m_Name: murasameModel.expressionList
+  m_EditorClassIdentifier: 
+  CubismExpressionObjects:
+  - {fileID: 11400000, guid: b84216486185e7e4f9480ec9d1fbd8a7, type: 2}
+  - {fileID: 11400000, guid: 8913291cec935e94d861865fac8dd850, type: 2}
+  - {fileID: 11400000, guid: 6ac0796a6d6c6614b914474146a71dc3, type: 2}
+  - {fileID: 11400000, guid: 59317a14cc30d57459cc26fc6e5dfda0, type: 2}
+  - {fileID: 11400000, guid: b65d76b2d981d7f4a8ede4e8e3be73fc, type: 2}
+  - {fileID: 11400000, guid: db6b6216bfbf4c54c9407f164aa8c3ed, type: 2}
+  - {fileID: 11400000, guid: ea437cbf4a6568f4f92d54150c844a9c, type: 2}
